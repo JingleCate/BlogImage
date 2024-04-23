@@ -1,2 +1,2 @@
 # BlogImage
-My Blog Inage cloud storage.
+My Blog Image cloud storage.
